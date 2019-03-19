@@ -1,2 +1,2 @@
-# vue-loading-plugin
-vue-loading-plugin
+# loading-tmp1
+loading-tmp1
